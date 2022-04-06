@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pwpb.css">
+    <title>E-PERPUS</title>
+</head>
+<body>
+
+    <!-- --------------------------------------------------HEADER-------------------------------------------------- -->
+
+    <div class="wrapper">
+        <div class="header">
+            <div class="logo"><img src="SMK N 2 Surakarta.png" alt=""></div>
+            <div class="title"><span>e-perpus</span>smkn 2 surakarta</div>
+        </div>
+    
+    <!-- --------------------------------------------------CONTENT-------------------------------------------------- -->
+
+    <!-- --------------------------------------------------baris menu-------------------------------------------------- -->    
+        <div class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li class="dropdown"><a href="#">About</a>
+                    <ul class="isi-dropdown">
+                        <li><a href="visi.html" target="isi-konten">Visi sekolah</a></li>
+                        <li><a href="misi.html" target="isi-konten">Misi sekolah</a></li>
+                    </ul>
+                </li>
+                <li><a href="form.html" target="isi-konten">Login</a></li>
+            </ul>
+        </div>
+
+    <!-- --------------------------------------------------isi konten-------------------------------------------------- -->    
+        <div class="content">
+
+    <!-- --------------------------------------------------konten kiri-------------------------------------------------- -->        
+            <div class="left-content">
+                <img src="pngwing.com.png" alt="">
+                <p>Perkenalkan nama saya Nara Satya Anoraga, Saya beralamat di <u>Jl.Solo-Sragen Km.10</u> atau lebih tepatnya di <u>Purworejan,Brujul,Jaten,Karanganyar,Jawa Tengah</u>.<br/>
+                Saat ini saya duduk dibangku SMK kelas sebelas yang mengambil jurusan RPL atau <i>Rekayasa Perangkat Lunak</i> yang berada di <b>SMKN 2 SURAKARTA</b>.
+                </p>
+                <hr style="border-top: 5px dotted #3f72af ">
+                <div class="daftar-isi">
+                    <h3><span>daftar buku</span></h3>
+                    <ul>
+                        <li><a href="#">1. Buku 5</a></li>
+                        <li><a href="#">2. Buku 4</a></li>
+                        <li><a href="#">3. Buku 3</a></li>
+                        <li><a href="#">4. Buku 2</a></li>
+                        <li><a href="#">5. Buku 1</a></li>
+                    </ul>
+                </div>
+            </div>
+
+    <!-- --------------------------------------------------konten kanan-------------------------------------------------- -->        
+            <div class="right-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus soluta nam quo amet! Consequuntur vel error nemo quas ipsum commodi nostrum voluptates hic maiores. Illum explicabo, natus voluptatibus maxime quis in. Minus voluptatum necessitatibus possimus ea sequi est eaque harum accusantium enim vitae in aliquid inventore eum dignissimos, fugiat sit, temporibus at sunt consequuntur autem consectetur? Modi ullam iste eligendi perspiciatis fuga, veritatis quisquam consectetur consequatur asperiores voluptate temporibus sequi cum debitis? Doloribus ut, quod ratione dignissimos magnam neque quae. Eveniet, magnam adipisci blanditiis quod porro voluptatibus non assumenda suscipit velit, repellat sunt alias vero debitis omnis excepturi, accusamus ducimus. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam qui autem hic explicabo quasi. Voluptatibus minima, voluptatem quidem ducimus blanditiis sequi facere recusandae voluptatum perferendis, tenetur doloremque distinctio natus accusantium consectetur soluta architecto error veritatis temporibus fuga? Illum, sapiente tempora dicta rerum suscipit obcaecati odit? Eveniet sequi quam at voluptas corporis aut natus, itaque ad commodi non numquam ipsam nobis excepturi iusto ipsa ratione molestias suscipit quis laboriosam corrupti incidunt velit nam deleniti? Quod quam repellendus dignissimos hic tempora, tenetur voluptates officiis fugiat molestiae. Doloribus blanditiis, cumque, neque explicabo illo maxime repellendus aliquid voluptatum excepturi quas, voluptatibus expedita? Id, mollitia. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere numquam labore, quaerat, hic aliquam corrupti molestias repellendus eum doloribus aut consequatur recusandae? Quidem esse officiis, ducimus et laudantium, fugiat debitis incidunt possimus aliquam eligendi quasi fuga aperiam! Assumenda, vero. Aperiam cum ut corrupti voluptatibus, facere molestias aut odit saepe laborum.</p>
+                <h2><i><marquee>smk 2 . . . luar biasa!!!</marquee></i></h2>
+                <iframe name="isi-konten" frameborder="0"></iframe>
+                <h4>koleksi buku</h4>
+                <div class="buku">
+                    <div class="isi-buku1">
+                        <img src="buku-pwpb.png" alt=""><p><a href="#">pwpb kelas 11</a></p>
+                    </div>
+                    <div class="isi-buku2">
+                        <img src="buku-basisdata.png" alt=""><p><a href="#">bd kelas 11</a></p>
+                    </div>
+                    <div class="isi-buku3">
+                        <img src="buku-basisdata.png" alt=""><p><a href="#">bd kelas 11</a></p>
+                    </div>
+                    <div class="isi-buku4">
+                        <img src="buku-basisdata.png" alt=""><p><a href="#">bd kelas 11</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- --------------------------------------------------FOOTER-------------------------------------------------- -->    
+
+        <div class="footer">
+            Copyright &copy; 2022 n o a. All Right Reserved
+        </div>
+    </div>
+        
+
+</body>
+</html>
